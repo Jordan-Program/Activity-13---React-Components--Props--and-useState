@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Poppins:wght@100;200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+    scroll-behavior: smooth;
+}
+
+.card 
+{   
+    padding-top: 50px;
+    border-radius: 70px;
+    background: #92b5ef;
+    box-shadow: inset 5px 5px 14px #3a4860,
+                inset -5px -5px 14px #eaffff;
+    width: 40vh;
+    height: 30vh;
+}
+
+.current_count
+{
+    color: #FFFFFF;
+    background: #92b5ef;
+    text-shadow: 3px 5px 2px #474747;
+    color: #FFFFFF;
+    background: #92b5ef;
+}
+
+.number_count
+{
+    color: #FFFFFF;
+    background: #333333;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #e20c0c 0px 0px 20px, #d30f92 0px 0px 30px, #9c0647 0px 0px 40px, #ffffff 0px 0px 50px, #ffffff 0px 0px 75px;
+    color: #000000;
+    background: #92b5ef;
+}
