@@ -3,8 +3,6 @@ import ReactiveButton from 'reactive-button';
 
 function Counter({count,countStatus}) 
 {
-  
- 
     return (
       <>
         <section className=" card container-fluid text-center" >
